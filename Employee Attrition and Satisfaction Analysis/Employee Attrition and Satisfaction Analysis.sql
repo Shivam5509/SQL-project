@@ -118,7 +118,7 @@ from employees
 group by job_role;
 
 --Write a query to find the attrition rate for employees at 
---each education level (e.g., Bachelor’s, Master’s).
+--each education level (e.g., Bachelorâ€™s, Masterâ€™s).
 select education, 
 ((sum(case when attrition=1 then 1 else 0 end)*100)/count(*)) as attrition_rate
 from employees 

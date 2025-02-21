@@ -1,4 +1,6 @@
+--open  your database
 use shivam;
+--To fetch the top 50 data
 select top 50 * from startup ;
 ---------Easy SQl Questions---------
 --1.Retrieve the names of all startups in the database.

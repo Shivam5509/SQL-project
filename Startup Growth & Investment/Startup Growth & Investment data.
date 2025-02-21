@@ -1,0 +1,20 @@
+About the Dataset
+Overview
+This dataset contains 5,000 records of startup growth and investment data across various industries. It provides insights into funding trends, valuation, and investor activity for startups globally. The dataset is ideal for machine learning models, data analysis, and trend predictions in the startup ecosystem.
+
+Dataset Features
+Column Name	Description
+Startup Name	Name of the startup
+Industry	The industry sector (e.g., AI, Fintech, HealthTech, etc.)
+Funding Rounds	Number of funding rounds received by the startup
+Investment Amount (USD)	Total investment received in USD
+Valuation (USD)	Estimated company valuation in USD
+Number of Investors	Total number of investors backing the startup
+Country	Country where the startup is based
+Year Founded	Year when the startup was founded
+Growth Rate (%)	Annual growth rate percentage
+Use Cases
+✅ Investment Trend Analysis – Analyze funding trends and investor interest across industries.
+✅ Startup Valuation Prediction – Train machine learning models to predict valuations based on funding rounds.
+✅ Market Research – Identify booming industries and successful startup ecosystems.
+✅ Investor Decision Making – Help venture capitalists and angel investors make data-driven decisions.

@@ -54,6 +54,65 @@ The **Student Database Project** is designed to efficiently store and manage stu
 - **Data Cleaning and Transformation**: Strong ability to clean and preprocess data for analysis.
 - **Performance Optimization**: Familiarity with optimizing SQL queries for better performance.
 
+
+# Startup Growth and Investment Analysis Using SQL
+
+## Overview
+The **Startup Growth and Investment Analysis** project explores data from various startups to understand growth trends, investment patterns, and funding rounds using **SQL**. The analysis provides insights into how startups grow over time, their funding sources, and the factors contributing to their success. By leveraging SQL queries, key metrics such as total funding, investor participation, and startup valuation trends are uncovered.
+
+## Key Features
+- **Growth and Funding Analysis**:
+  - Analyzed startup growth trends based on factors such as funding stages, valuation changes, and investor participation.
+  - Identified top-funded startups and sectors driving the highest investment activity.
+  - Tracked growth patterns across early-stage, mid-stage, and late-stage funding rounds.
+
+- **Advanced SQL Techniques**:
+  - Utilized **CTEs (Common Table Expressions)** to structure complex queries, especially when analyzing funding rounds and investor involvement.
+  - Applied **Window Functions** to calculate cumulative funding and rank startups by investment received.
+  - Employed **Aggregate Functions** (SUM, COUNT, AVG) to summarize investment data and compute average funding amounts.
+  - Executed **Joins** and **Subqueries** to combine data from different tables, such as startups, investors, and funding rounds.
+
+- **Key Metrics**:
+  - Analyzed **100,000+ rows** of startup data to uncover insights about total funding, investor contributions, and sector growth.
+  - Identified the top 10 startups receiving the highest investments.
+  - Tracked growth trends across sectors such as technology, healthcare, and finance.
+
+## Project Highlights
+- Conducted a detailed analysis of startup funding rounds, identifying key trends in investment behavior.
+- Used advanced SQL queries to rank startups based on total funding received and growth over time.
+- Provided actionable insights into how startups attract investments and grow across funding stages.
+
+# Walmart Sales Analysis Using SQL
+
+## Overview
+The **Walmart Sales Analysis** project focuses on analyzing Walmart's sales data using **SQL** to derive valuable business insights. This project uses SQL queries to explore and analyze key metrics such as revenue trends, top-selling products, store performance, and customer purchasing patterns. The insights gained help in understanding Walmart's sales dynamics and guide data-driven decision-making.
+
+## Key Features
+- **Data Analysis**:
+  - Performed sales data analysis using SQL to identify revenue trends, seasonal variations, and top-performing products.
+  - Analyzed store-wise performance, determining the most profitable locations and times.
+  - Identified customer purchase patterns, including product categories and frequency of purchases.
+
+- **Advanced SQL Techniques**:
+  - Utilized **Common Table Expressions (CTEs)** for organizing complex queries.
+  - Employed **Window Functions** to calculate running totals, rankings, and comparisons over partitions (e.g., store sales).
+  - Implemented **Aggregate Functions** (SUM, AVG, COUNT) to summarize sales data.
+  - Used **Joins** and **Subqueries** to combine multiple tables and extract in-depth insights.
+  
+- **Key Metrics**:
+  - Analyzed **100,000+ rows** of sales data to uncover insights on revenue growth and product trends.
+  - Examined top-selling product categories and their contributions to total revenue.
+  - Identified seasonal sales patterns to aid in promotional planning and inventory management.
+
+## Tools & Technologies
+- **SQL** (Structured Query Language)
+- **MySQL** or **PostgreSQL** (or any SQL-based database)
+  
+## Project Highlights
+- Conducted detailed sales analysis across stores and product categories.
+- Utilized complex SQL queries to discover patterns in customer behavior.
+- Provided actionable insights for optimizing inventory and increasing profitability.
+
 ## Tools & Technologies Used
 - **SQL (MySQL/PostgreSQL/Microsoft sql server)**: Used for creating and managing the student database.
 - **Python (optional)**: For connecting and manipulating data through database queries.
